@@ -35,3 +35,11 @@ footer {
 footer p {
   margin-bottom: .25rem;
 }
+
+.bg-burdeo{
+background:rgba(125,0,55,1);
+}
+
+.bg-fabulous{
+background:#CCCCCC;
+}
