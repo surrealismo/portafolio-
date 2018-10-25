@@ -23,16 +23,19 @@
 
 .jumbotron-heading {
   font-weight: 300;
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Roboto Slab',extrabold;
     color:aliceblue;
-  
+    
+
     
 }
 
 .jumbotron .container {
   max-width: 40rem;
-        font-family: 'Roboto Slab', serif;
-    color: seashell;
+        font-family: 'Roboto Slab', extrabold;
+      background-color:#9CCCCC;
+    color:aliceblue;
+
   
 }
 
@@ -48,13 +51,18 @@ footer p {
 
 .bg-fabulous{
 background:#9CCCCC;
+  font-family: 'Roboto Slab',extrabold;
+
 }
 
 .jumbotron {
  background-image:url(img/M.jpg);
   background-repeat: no-repeat;
     background-size: cover;
-   
-
+  
 }
 
+body{
+font-family: 'Roboto Slab', extrabold;
+    
+}
